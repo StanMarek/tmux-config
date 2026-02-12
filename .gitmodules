@@ -1,0 +1,9 @@
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "plugins/tmux-plugins/tmux-cpu"]
+	path = plugins/tmux-plugins/tmux-cpu
+	url = https://github.com/tmux-plugins/tmux-cpu
+[submodule "plugins/tmux-plugins/tmux-battery"]
+	path = plugins/tmux-plugins/tmux-battery
+	url = https://github.com/tmux-plugins/tmux-battery
